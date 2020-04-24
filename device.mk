@@ -561,7 +561,13 @@ PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/configs/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/WCNSS_qcom_cfg.ini \
     $(DEVICE_PATH)/configs/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf
 
+# Wifi Overlay
+PRODUCT_PACKAGES += \
+    PlatinaWifiOverlay
+
 # DeviceSettings
 PRODUCT_PACKAGES += \
    DeviceSettings
 
+# Inherit the proprietary files
+$(call inherit-product, vendor/xiaomi/platina/platina-vendor.mk)
