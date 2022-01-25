@@ -33,4 +33,9 @@
     <!-- the padding on the end of the statusbar -->
     <dimen name="status_bar_padding_end">6dp</dimen>
 
+    <!--  Bottom margin size-->
+    <dimen name="keyguard_indication_margin_bottom">30dp</dimen>
+    <!-- rounded corner content padding -->
+    <dimen name="rounded_corner_content_padding">30.0px</dimen>
+
 </resources>
