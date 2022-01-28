@@ -24,4 +24,7 @@
     <dimen name="status_bar_height_portrait">@dimen/status_bar_height_default</dimen>
     <dimen name="rounded_corner_radius_top">80px</dimen>
     <dimen name="rounded_corner_radius_bottom">80px</dimen>
+
+    <!-- rounded corner content padding -->
+    <dimen name="rounded_corner_content_padding">30.0px</dimen>
 </resources>
