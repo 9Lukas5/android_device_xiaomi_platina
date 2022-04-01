@@ -6,8 +6,9 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter tulip jasmine_sprout wayne clover lavender platina jason whyred,$(TARGET_DEVICE)),)
-
+ifeq ($(TARGET_DEVICE),platina)
+  subdir_makefiles=$(call first-makefiles-under,$(LOCAL_PATH))
+  $(foreach mk,$(subdir_makefiles),$(info including $(mk) ...)$(eval include $(mk)))
 $(shell mkdir -p $(TARGET_OUT_VENDOR)/firmware)
 
 include $(CLEAR_VARS)
