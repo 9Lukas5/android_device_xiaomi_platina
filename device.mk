@@ -483,6 +483,9 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/pixel \
     hardware/xiaomi
 
+QCOM_SOONG_NAMESPACE := \
+    $(DEVICE_PATH)/qcom-caf
+
 # System
 PRODUCT_VENDOR_PROPERTIES += \
     persist.sys.binary_xml=false
