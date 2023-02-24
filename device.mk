@@ -118,8 +118,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     com.android.media.swcodec \
     libsfplugin_ccodec \
-    android.hardware.media.c2@1.0.vendor \
-    android.hardware.media.c2@1.1.vendor
+    android.hardware.media.c2@1.2.vendor \
 
 # Dalvik
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk )
