@@ -48,6 +48,7 @@ TARGET_COMPILE_WITH_MSM_KERNEL := true
 # Kernel additional flags
 TARGET_KERNEL_ADDITIONAL_FLAGS := \
     HOSTCFLAGS="-fuse-ld=lld -Wno-unused-command-line-argument"
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
