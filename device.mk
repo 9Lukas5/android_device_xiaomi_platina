@@ -189,7 +189,10 @@ PRODUCT_PACKAGES += \
     libgps.utils \
     libloc_core \
     liblocation_api \
-    libwifi-hal-ctrl
+    libwifi-hal-ctrl \
+    libloc_pla_headers \
+    liblocation_api_headers \
+    libgps.utils_headers
 
 # GPS Config
 PRODUCT_COPY_FILES += \
