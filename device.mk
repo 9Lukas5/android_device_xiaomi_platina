@@ -193,6 +193,12 @@ PRODUCT_PACKAGES += \
     liblocation_api_headers \
     libgps.utils_headers
 
+PRODUCT_PACKAGES += \
+    libgnsspps \
+    libsynergy_loc_api \
+    izat_remote_api_headers \
+    loc_sll_if_headers
+
 # GPS Config
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/gps/etc/apdr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/apdr.conf \
