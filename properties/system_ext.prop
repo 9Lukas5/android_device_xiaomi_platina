@@ -16,6 +16,9 @@ bluetooth.profile.pan.panu.enabled=true
 bluetooth.profile.pbap.server.enabled=true
 bluetooth.profile.sap.server.enabled=true
 
+# GPS
+persist.backup.ntpServer="0.pool.ntp.org"
+
 # QCOM
 persist.vendor.dpm.feature=11
 persist.vendor.dpm.nsrm.bkg.evt=3955
