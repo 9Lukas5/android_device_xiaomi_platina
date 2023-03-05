@@ -137,8 +137,8 @@
     <!-- Custom version -->
     <string name="pref_version_indicator_cat">自定义信息</string>
     <string name="pref_version_indicator">版本</string>
-    <string name="pref_version_indicator_summary">Pixel Experience Android 13 - Mi PAD 4 (Plus)\n本系统为免费系统,且本人未提供任何捐赠渠道,如果您以任何付费方式获取此包证明您已上当受骗,请立即退款并在平台举报商家,国内交流群:372404210</string>
+    <string name="pref_version_indicator_summary">Android 13 - Mi 8 Lite\n本系统为免费系统,且本人未提供任何捐赠渠道,如果您以任何付费方式获取此包证明您已上当受骗,请立即退款并在平台举报商家,国内交流群:372404210</string>
     <string name="pref_first_ref">第一次启动</string>
-    <string name="pref_first_ref_message">Pixel Experience Android 13 - Mi PAD 4 (Plus)\n本系统为免费系统,且本人未提供任何捐赠渠道,遵守GPL,Apache开源协议,如果您以任何付费方式获取此包证明您已上当受骗,请立即退款并在平台举报商家,国内交流群:372404210\n\n点击左上角箭头退出将不再显示(箭头将锁定十秒)</string>
+    <string name="pref_first_ref_message">Android 13 - Mi 8 Lite\n本系统为免费系统,且本人未提供任何捐赠渠道,遵守GPL,Apache开源协议,如果您以任何付费方式获取此包证明您已上当受骗,请立即退款并在平台举报商家,国内交流群:372404210\n\n点击左上角箭头退出将不再显示(箭头将锁定十秒)</string>
     <string name="pref_first_not_yet">请认真阅读并等待十秒</string>
 </resources>
