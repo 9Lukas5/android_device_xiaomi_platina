@@ -555,6 +555,9 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor_32  \
     com.android.vndk.current.on_vendor
 
+PRODUCT_COPY_FILES += \
+    prebuilts/vndk/v29/arm/arch-arm-armv7-a-neon/shared/vndk-core/libpiex.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpiex-v29.so
+
 # WiFi
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
