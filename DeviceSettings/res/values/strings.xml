@@ -154,8 +154,8 @@
     <!-- Custom version -->
     <string name="pref_version_indicator_cat">Custom information</string>
     <string name="pref_version_indicator">Version</string>
-    <string name="pref_version_indicator_summary">Pixel Experience Android 13 - Mi PAD 4 (Plus)\nFree system, no paid way to get this system nor the way to donate me.\nAny re-selling is prohibited.</string>
+    <string name="pref_version_indicator_summary">Android 13 - Mi 8 Lite\nFree system, no paid way to get this system nor the way to donate me.\nAny re-selling is prohibited.</string>
     <string name="pref_first_ref">First boot</string>
-    <string name="pref_first_ref_message">Pixel Experience Android 13 - Mi PAD 4 (Plus)\nFree system, no paid way to get this system nor the way to donate me.\nAny re-selling is prohibited.</string>
+    <string name="pref_first_ref_message">Android 13 - Mi 8 Lite\nFree system, no paid way to get this system nor the way to donate me.\nAny re-selling is prohibited.</string>
     <string name="pref_first_not_yet">Wait for 10s</string>
 </resources>
