@@ -1411,7 +1411,7 @@ vendor/lib64/libsensor_reg.so|b18e116898180bc196374ca76390e78e4a295dcb
 vendor/lib64/libssc_default_listener.so|32362d1d20fe76de96daea735787d1f6ef8c2dd4
 vendor/lib64/sensor_calibrate.so|9f0cd5ba6e11c50765f090deb6d8697e2eb3a187
 
-# Sensors - from platina
+# Sensors - from S62Pro
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
 
