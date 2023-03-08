@@ -119,14 +119,6 @@ vendor/lib64/soundfx/libqcvirt.so|a362fce913d3ef85cd4d65fcfd09f53c00043bd6
 # Audio FX modules - from LA.UM.8.2.r1-07500-sdm660.0
 vendor/lib/soundfx/libmisoundfx.so|569ee2df586e95116b79cfb3d89429f2032a7a76
 
-# Audio Hardware
-vendor/lib/hw/audio.primary.sdm660.so
-vendor/lib/libaudio_log_utils.so
-vendor/lib/libaudioroute_ext.so
-vendor/lib64/hw/audio.primary.sdm660.so
-vendor/lib64/libaudio_log_utils.so
-vendor/lib64/libaudioroute_ext.so
-
 # Bluetooth - from S62Pro
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|07d96d0d3c4a500b14ea3c97e02b9eb5ee2bbc4d
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|f4ee3b2da2b08647447869ade86ec63f7340accc
