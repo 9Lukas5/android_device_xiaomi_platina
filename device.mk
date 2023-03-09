@@ -79,7 +79,7 @@ PRODUCT_PACKAGES += \
 
 # Biometrics
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.3-service.xiaomi
+    android.hardware.biometrics.fingerprint@2.1-service.xiaomi_sdm660
 
 # Bluetooth
 PRODUCT_PACKAGES += \
