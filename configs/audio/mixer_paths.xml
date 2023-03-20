@@ -2436,7 +2436,7 @@
     </path>
 
     <path name="handset">
-        <ctl name="EAR SPKR PA Gain" value="G_3_DB" />
+        <ctl name="EAR SPKR PA Gain" value="G_6_DB" />
         <ctl name="RX1 MIX1 INP1" value="RX1" />
         <ctl name="RDAC2 MUX" value="RX1" />
         <ctl name="EAR_S" value="Switch" />
