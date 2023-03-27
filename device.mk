@@ -536,7 +536,7 @@ PRODUCT_PACKAGES += \
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.xiaomi_sdm660
+    android.hardware.usb@1.0-service.basic
 
 PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
