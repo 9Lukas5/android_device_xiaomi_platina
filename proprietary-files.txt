@@ -1056,6 +1056,9 @@ vendor/lib64/libtinyxml2_1.so|70942325afdd14eedcf11b3fbbfbc3d98f42f8dc
 vendor/lib/hw/vulkan.sdm660.so|404862c00279f222b1a9277bf773a96a605ba99b
 vendor/lib64/hw/vulkan.sdm660.so|785505bf473e486cd7ce1a034ccba46381830a6e
 
+# IRQ balance - from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+vendor/bin/msm_irqbalance|b075c2f4092c175950a2c26d19bf2013e2efd6d5
+
 # Keymaster - from LA.UM.10.2.1.r1-03400-sdm660.0
 vendor/lib/libkeymasterdeviceutils.so|a0de8c0055d2cfac9202d8eef88854c1e9795ff4
 vendor/lib/libkeymasterprovision.so|c16328226bb07371a4928906bd70888bbee27895
