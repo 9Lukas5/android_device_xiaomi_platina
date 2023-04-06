@@ -35,6 +35,24 @@
         <value>1747200</value>
         <value>1843200</value>
     </array>
+    <array name="cpu.speeds.cluster0">
+        <value>633000</value>
+        <value>902000</value>
+        <value>1113000</value>
+        <value>1401000</value>
+        <value>1536000</value>
+        <value>1747000</value>
+        <value>1843000</value>
+    </array>
+    <array name="cpu.active.cluster0">
+        <value>34</value>
+        <value>60</value>
+        <value>85</value>
+        <value>128</value>
+        <value>163</value>
+        <value>202</value>
+        <value>253</value>
+    </array>
     <array name="cpu.core_power.cluster0">
         <value>31.76</value>
         <value>52.57</value>
