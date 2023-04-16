@@ -4,9 +4,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Firmware
-$(call inherit-product, vendor/xiaomi-firmware/platina/firmware.mk)
-
 DEVICE_PATH := device/xiaomi/platina
 
 # PRODUCT_SHIPPING_API_LEVEL indicates the first api level, device has been commercially launched on.
