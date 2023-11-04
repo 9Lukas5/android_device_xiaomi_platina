@@ -10,7 +10,7 @@
 
 <mixer>
     <!-- Volume controls -->
-    <ctl name="EAR PA Gain" value="POS_6_DB" />
+    <ctl name="EAR PA Gain" value="POS_1P5_DB" />
 
     <!-- EAR controls -->
     <ctl name="EAR_S" value="ZERO" />
